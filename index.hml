@@ -21,7 +21,19 @@
 
   <h2>🎥 Demo Video</h2>
   <video width="640" controls>
-    <source src="results/demo.mp4" type="video/mp4">
+    <source src="results/demo1.mp4" type="video/mp4">
+  </video>
+
+  <video width="640" controls>
+    <source src="results/demo2.mp4" type="video/mp4">
+  </video>
+
+  <video width="640" controls>
+    <source src="results/demo3.mp4" type="video/mp4">
+  </video>
+
+  <video width="640" controls>
+    <source src="results/demo4.mp4" type="video/mp4">
   </video>
 
   <h2>🧠 Code</h2>
