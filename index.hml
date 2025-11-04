@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>4D Human-Scene Interaction Generation</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; max-width: 800px; }
+    h1 { color: #333; }
+    img, video { max-width: 100%; border-radius: 10px; }
+    a { color: #007acc; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>4D Human-Scene Interaction Generation</h1>
+  <p>This project explores 4D articulated human-scene interaction generation using transformers, diffusion models, and 3D Gaussian representations.</p>
+
+  <h2>📄 Paper</h2>
+  <p><a href="link-to-your-paper.pdf">Read the paper</a></p>
+
+  <h2>🎥 Demo Video</h2>
+  <video width="640" controls>
+    <source src="results/demo.mp4" type="video/mp4">
+  </video>
+
+  <h2>🧠 Code</h2>
+  <p><a href="https://github.com/Kaitlina-S/RoomPlanner.git">View on GitHub</a></p>
+</body>
+</html>
